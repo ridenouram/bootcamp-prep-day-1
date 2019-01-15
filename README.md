@@ -1,5 +1,3 @@
 # bootcamp-prep-day-1
-a repo for day 1 of bootcamp prep
-can I haz code change?
-I have modified this readme.
-No passwords
+who wrote this anyway?
+
